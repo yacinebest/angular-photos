@@ -1,5 +1,7 @@
 # Photos
 
+Load image from API with http and using RxJs
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
 ## Development server
